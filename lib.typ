@@ -35,7 +35,7 @@
 #let ct-fonts = (
   // TeX Gyre Pagella is a Palatino clone - the authentic ClassicThesis look
   // Falls back to other serif fonts if not available
-  main: ("TeX Gyre Pagella", "Libertinus Serif", "EB Garamond 12", "New Computer Modern"),
+  main: ("TeX Gyre Pagella", "Libertinus Serif", "EB Garamond 12", "New Computer Modern","方正书宋.ttf","Noto Serif SC"),
   mono: ("Fira Code", "JetBrains Mono", "DejaVu Sans Mono"),
 )
 
